@@ -146,6 +146,7 @@ https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS_TV",Nickelodeon_Bangla
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS_TV",Cbeebies
@@ -162,8 +163,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS_TV",Nick
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Star_plus_hd
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",&Pictures HD
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Star_Gold_hd
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",BFLIX
@@ -202,16 +206,23 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Star Hum
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Tollywood
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Anmol
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/zeeanmol/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zing/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing2
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing3
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Magic
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/magic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Action
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/action/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",9XM
 http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",9XM-2
 http://45.249.187.238:8081/hls/new23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",Zing
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",Zing2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",MTV_BEATS
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",MTV
@@ -230,14 +241,23 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",Music Box
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",E24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix-2
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix HD
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MACAU_LOTUS
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MBC_2_HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Prive HD
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",HITS
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",Star Movies
@@ -258,14 +278,18 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",Lotus Macau
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",ZeeCafe HD
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/zeecafehd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",BBC_NEWS
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",BBC World News
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Al Jajeera
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",E24
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee News
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/zeenews/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",History_tv_hd
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",BBC_EARTH
@@ -282,6 +306,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Living Food
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/livingfoodz/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sports1
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Star Sports1
@@ -296,5 +323,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony 10-2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Star Sports2 HD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Religious",Zee Salam
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+
+https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zeesalaam/index.m3u8

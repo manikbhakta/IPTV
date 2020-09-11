@@ -1,32 +1,14 @@
 #EXTM3U
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Attention Please",নামের শেষে VLC যুক্ত চ্যানেলগুলো শুধুমাত্র VLC Player এ চলে। 
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/24ghanta/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Notice",নামের শেষে VLC যুক্ত চ্যানেলগুলো শুধুমাত্র VLC Player এ চলে। 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD
-http://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies
-http://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla
-http://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla2
 http://45.249.187.238:8081/hls/new7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Colors Bangla
-https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Dhoom Music
-https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",R Plus
-https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Ruposhi Bangla
-https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath
 http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath2
@@ -60,117 +42,57 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",News18 Bangla2
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",ATN Bangla2
 http://45.249.187.238:8081/hls/new17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Bangla Vision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Bangla Vision2
 http://45.249.187.238:8081/hls/new6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Boishakhi TV
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",BTV
 http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Bangla Channel
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 9-2
 http://45.249.187.238:8081/hls/live3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel i-2
 http://45.249.187.238:8081/hls/live7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Deepto TV2
 http://45.249.187.238:8081/hls/new22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Duronto TV2
 http://45.249.187.238:8081/hls/new3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Ekattor TV
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Ekattor TV2
 http://45.249.187.238:8081/hls/live6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Ekushey TV2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Falguni TV
 http://45.249.187.238:8081/hls/new24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Gaan Bangla2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Gazi TV2
 http://45.249.187.238:8081/hls/live5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Independent TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Independent TV2
 http://45.249.187.238:8081/hls/hdmi4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",ITV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Jamuna TV2
 http://45.249.187.238:8081/hls/live2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Maasranga TV
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",MyTV
 http://45.249.187.238:8081/hls/new5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Nagorik TV2
 http://45.249.187.238:8081/hls/new16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",News24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",News24-2
 http://45.249.187.238:8081/hls/live4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Probashi Bangla
-https://edge01.iptv.digijadoo.net/live/probashibangla/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV
-https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV2
 http://45.249.187.238:8081/hls/live1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",SA TV
-https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Shomoy TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Shomoy TV2
 http://45.249.187.238:8081/hls/hdmi2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Sangsad_TV
-https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Nickelodeon_Bangla
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Cbeebies
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney Channel
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Discovery Kids
@@ -190,12 +112,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Daai TV
 https://t4-id-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Star_plus_hd
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",&Pictures HD VLC
 https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Star_Gold_hd
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",BFLIX
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",B4U Movies
@@ -210,22 +128,14 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
 https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Shemarao TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee_TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee_TV2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee_TV3
 http://ccn.anytv.live:8080/zeetv/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee_TV4
 http://z5amshls.akamaized.net/apacsea/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee_Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee_Cinema2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Star_Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Enter10
-https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",&Pictures HD
 http://45.249.187.238:8081/hls/tsl-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony Sab
@@ -246,8 +156,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
 https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/zeeanmol/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing VLC
 https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zing/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing2
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing3
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Bollywood
@@ -271,8 +179,6 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",9XM-2
 http://45.249.187.238:8081/hls/new23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",MTV_BEATS
-https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",MTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",Mastii
@@ -310,8 +216,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix HD VLC
 https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MACAU_LOTUS
-https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MBC_2_HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Prive HD VLC
@@ -398,10 +302,6 @@ https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=htt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Bihar VLC
 https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/biharjharkh/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",History HD
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",History TV2
-http://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",The Q TV
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",BBC_EARTH

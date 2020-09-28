@@ -37,12 +37,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Tollywood
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Zee Sarthak VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/sarthaktv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Zee Bangla VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Zee 24Ghanta VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/24ghanta/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Zee Sarthak
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/sarthaktv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Zee 24Ghanta
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/24ghanta/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Protodin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Asam Talks
@@ -179,8 +177,8 @@ https://video4.mayapur.tv/allTemples/ISKCONSydney/Sydney/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="ISKCON TV",Bhakti Center NY
 https://video4.mayapur.tv/allTemples/BhaktiCenterNYC/BhaktiCenterNYC/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",&Pictures HD VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",&Pictures HD
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",BFLIX
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",B4U Movies
@@ -227,26 +225,26 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 http://103.205.133.19/hls/starbharat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Star Hum
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Anmol VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/zeeanmol/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zing/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Anmol
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/zeeanmol/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zing/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zing3
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Bollywood
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Magic VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/magic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Action VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/action/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Talkies VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/ztalkieshd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Bollywood VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Cinemalu VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zcinemalusd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee World VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/world/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Magic
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/magic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Action
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/action/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Talkies
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/ztalkieshd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Bollywood
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee Cinemalu
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemalusd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Zee World
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/world/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",MH1
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Wow Cinema
@@ -284,8 +282,8 @@ http://rtmp.one.by:1300
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",Music TV
 http://103.47.132.165/PLTV/88888888/224/3221227333/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",Zee ETC VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/etc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",Zee ETC
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/etc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
@@ -293,14 +291,14 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix-2 VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andflix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix HD VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix-2
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andflix/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix HD
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MBC_2_HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Prive HD VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/andprivehd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Prive HD
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",HITS
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",Star Movies
@@ -331,8 +329,8 @@ http://51.52.156.22:8888/http/008
 http://51.52.156.22:8888/http/012
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",AXN
 http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",ZeeCafe HD VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/zeecafehd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",ZeeCafe HD
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/zeecafehd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",BBC_NEWS
 http://51.52.156.22:8888/http/004
@@ -374,18 +372,18 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Sadhana News
 http://cdn.clive.in:1935/jianews/jianews.stream_HDp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee News VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/zeenews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Wion News VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/wion/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Rajastahn VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/rajasthan/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Punjabi VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/punjabi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Business VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zeebusiness/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Bihar VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/biharjharkh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee News
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/zeenews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Wion News
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/wion/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Rajastahn
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/rajasthan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Punjabi
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/punjabi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Business
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebusiness/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="NEWS",Zee Bihar
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/biharjharkh/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",The Q TV
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
@@ -419,8 +417,8 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Fox Crime
 http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Living Food VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=https://z5ams.akamaized.net/livingfoodz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Living Food
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/livingfoodz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Scify
 https://streamitv.multitvsolution.in/idvo/discoveryhd_540p/index.m3u8
 
@@ -457,7 +455,7 @@ http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Religious",Sadhana TV
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Religious",Zee Salam VLC
-https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/APIS/Get_Streams_API.php?url=http://z5ams.akamaized.net/zeesalaam/index.m3u8
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeesalaam/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Religious",Divya
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Religious",Sheemarao Bhakti

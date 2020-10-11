@@ -1,32 +1,24 @@
 #EXTM3U
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Enter10 Bangla
 https://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD-1
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Khusbu Bangla
-https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD-2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-3
-http://103.205.133.19/hls/zeebangla.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD2
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-1
+http://ccntv.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema-1
+http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Khusbu Bangla
+https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD-1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla-1
 http://45.249.187.238:8081/hls/new7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath0
-http://103.205.133.14/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath1
-http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath-1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath3
-http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Bangla Time
-http://103.205.133.14/hls/banglatime.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Bangla Time-2
-http://103.205.133.19/hls/banglatime.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",DD Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Kolkata TV
@@ -45,12 +37,8 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Kolkata News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Kolkata News2
-http://62.210.141.179:8000/ibrahim/123456/1344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",News18 Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",News18 Bangla-1
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",News18 Bangla2
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
 

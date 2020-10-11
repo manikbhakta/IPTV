@@ -94,6 +94,8 @@ http://103.205.133.19/hls/dbcnews.m3u8
 http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Deepto TV-2
 http://45.249.187.238:8081/hls/new22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Deepto TV-3
+http://103.214.202.218:8081/live/deepto/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Duronto TV-1
 http://103.102.136.106:8080/cmcltv/duronto.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Duronto TV-2

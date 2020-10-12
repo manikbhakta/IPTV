@@ -57,7 +57,7 @@ http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/sarthaktv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Zee 24Ghanta
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/24ghanta/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Protodin Time
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Protidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Asam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
@@ -164,6 +164,8 @@ http://103.102.136.106:8080/cmcltv/news24.m3u8
 http://45.249.187.238:8081/hls/live4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Probashi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",NTV
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV-1
@@ -182,6 +184,10 @@ http://45.249.187.238:8081/hls/hdmi2.m3u8
 http://fingerme.dg21bd.com/TBN24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Law TV
+http://master.beeiptv.com:8081/LAW/lawtv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Times24
+http://cdn.priyoiptv.com:1932/priyoiptv/times24tv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney Channel
 http://45.249.187.238:8081/hls/live0.m3u8
@@ -281,6 +287,8 @@ https://ott.bingebd.com/live/ngrp:sony_pix_all/chunklist_b1228000.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony Max
+https://load.airtel.tv/sonymax/smil:common.smil/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",&TV
 http://45.249.187.238:8081/hls/tsl-6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",UTV Action
@@ -389,6 +397,8 @@ https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",iTV3
 http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",HollywoodHD
+http://185.251.208.2:8080/HollywoodHD/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",UK TV
 http://51.52.156.22:8888/http/008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",PBS America
@@ -465,6 +475,8 @@ https://ott.bingebd.com/live/ngrp:discovery_turbo_all/chunklist_b2168086.m3u8
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Investigation Discovery
 https://streamitv.multitvsolution.in/idvo/investigationdiscovery_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Beach TV
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Nat Geo
 https://ott.bingebd.com/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Science Hindi

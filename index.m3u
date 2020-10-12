@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Enter10 Bangla
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Enter10 Bangla-1
 https://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Enter10 Bangla-2
+http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD-1
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD-2
@@ -13,20 +15,30 @@ http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema-3
 http://103.115.159.38:8080/live/saiful/saiful/377.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema-4
+https://z5amshls.akamaized.net/zbanglacnm/tracks-v2a1/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Akash Aat
 http://103.115.159.38:8080/live/saiful/saiful/361.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Colors Bangla
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Colors Bangla-1
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Colors Bangla-2
+https://ott.bingebd.com/live/ngrp:colors_bangla_all/chunklist_b1228000.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Khusbu Bangla
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD-1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD-2
+https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/chunklist_b1228000.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha-1
 http://103.115.159.38:8080/live/saiful/saiful/281.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-2
+https://ott.bingebd.com/live/ngrp:jalsha_movies_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla-1
 http://45.249.187.238:8081/hls/new7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla-2
+https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath-1
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sony Aath-2
@@ -84,6 +96,8 @@ http://103.205.133.19/hls/banglatv.m3u8
 http://103.102.136.106:8080/cmcltv/channel9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 9-2
 http://45.249.187.238:8081/hls/live3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel i-1
+https://ott.bingebd.com/live/ngrp:channel_i_all/chunklist_b5350442.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel i-2
 http://45.249.187.238:8081/hls/live7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 24
@@ -102,6 +116,8 @@ http://103.214.202.218:8081/live/deepto/chunks.m3u8
 http://103.102.136.106:8080/cmcltv/duronto.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Duronto TV-2
 http://45.249.187.238:8081/hls/new3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Duronto TV-3
+https://ott.bingebd.com/live/ngrp:duronto_tv_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Ekattor-1
 http://103.102.136.106:8080/cmcltv/ekator.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Ekattor-2
@@ -150,10 +166,12 @@ http://45.249.187.238:8081/hls/live4.m3u8
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",NTV
 http://103.205.133.19/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV-1
 http://103.205.133.19/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV-2
 http://45.249.187.238:8081/hls/live1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",RTV-3
+https://ott.bingebd.com/live/ngrp:rtv_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",SA TV
 http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Shomoy TV
@@ -167,20 +185,32 @@ http://128.199.212.160/channelt1/1080/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney Channel
 http://45.249.187.238:8081/hls/live0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Nick Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Nick Bangla-1
 http://103.115.159.38:8080/live/saiful/saiful/332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Nick Bangla-2
+https://ott.bingebd.com/live/ngrp:nickelodeon_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Discovery Kids-Hindi
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Discovery Kids-Eng
+https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Sheemarao Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",CN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",CN HD-1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",CN HD-2
+https://ott.bingebd.com/live/ngrp:cartoon_network_all/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney Junior
 http://103.115.159.38:8080/live/saiful/saiful/368.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Sony Yay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Pogo
+https://ott.bingebd.com/live/ngrp:pogo_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Sonic Bangla
+https://ott.bingebd.com/live/ngrp:sonic_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Sony Yay-1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Sony Yay-2
+https://ott.bingebd.com/live/ngrp:sony_yay_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Cebeebies2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Sonic
@@ -203,6 +233,12 @@ https://video4.mayapur.tv/allTemples/BhaktiCenterNYC/BhaktiCenterNYC/chunklist.m
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",BFLIX
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony MaxHD
+https://ott.bingebd.com/live/ngrp:sony_max_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony HD
+https://ott.bingebd.com/live/ngrp:sony_all/chunklist_b1228000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Big Magic
+https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Colors
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",B4U Movies
@@ -213,8 +249,10 @@ http://103.205.133.19/hls/b4umovies.m3u8
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Enter10 Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Colors TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Colors TV1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Colors TV2
+https://ott.bingebd.com/live/ngrp:colors_hd_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Dangal TV
 https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Shemarao TV
@@ -237,6 +275,8 @@ http://103.205.133.19/hls/andpicture.m3u8
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony PixHD
+https://ott.bingebd.com/live/ngrp:sony_pix_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",SonyHD
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony Max HD
@@ -315,6 +355,8 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",HBO
+https://ott.bingebd.com/live/ngrp:hbo_all/chunklist_b2670202.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix-2
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andflix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix HD
@@ -413,12 +455,24 @@ http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/biharjharkh
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",The Q TV
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Sony-BBC-Earth
+https://ott.bingebd.com/live/ngrp:sony_bbc_earth_all/chunklist_b6727973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Turbo
+https://ott.bingebd.com/live/ngrp:discovery_turbo_all/chunklist_b2168086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Science
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Investigation Discovery
+https://streamitv.multitvsolution.in/idvo/investigationdiscovery_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Nat Geo
+https://ott.bingebd.com/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",BBC_EARTH
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Animal Planet-1
+https://streamitv.multitvsolution.in/idvo/aphd_144p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Animal Planet HD
 http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Travel XP
@@ -462,10 +516,18 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony Six HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony Six-2
+https://ott.bingebd.com/live/ngrp:sony_six_all/chunklist_b5983852.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony Six HD2
 http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony 10-1
+https://ott.bingebd.com/live/ngrp:sony_ten_1_all/chunklist_b8523798.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony 10-2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony 10-2
+https://ott.bingebd.com/live/ngrp:sony_ten_2_all/chunklist_b8612295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony 10-3
+https://ott.bingebd.com/live/ngrp:sony_ten_3_all/chunklist_b3237662.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Fashion",World Fashion TV
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8

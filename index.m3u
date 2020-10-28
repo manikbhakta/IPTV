@@ -5,12 +5,13 @@ https://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-1
 http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-2
 http://otv.ftpbd.net/streams/107/1013.ts
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD-1
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD-2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-2
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-3
 http://ccntv.anytv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema-1
 http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
@@ -36,8 +37,8 @@ https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/chunklist_b1228000.m3u8
 http://103.115.159.38:8080/live/saiful/saiful/281.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-1
 http://otv.ftpbd.net/streams/115/1048.ts
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-2
 http://otv.ftpbd.net/streams/115/index.m3u8
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-2
 https://ott.bingebd.com/live/ngrp:jalsha_movies_all/chunklist_b1228000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla-1
@@ -75,6 +76,10 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Indian Bangla",Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",71 TV
+http://otv.ftpbd.net/streams/128/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",71 TV-2
+http://otv.ftpbd.net/streams/128/1119.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",ATN Bangla
 http://45.249.187.238:8081/hls/new17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Aamar Cinema
@@ -99,6 +104,8 @@ http://103.205.133.19/hls/btvworld.m3u8
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Bangla TV
 http://103.205.133.19/hls/banglatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 9
+http://otv.ftpbd.net/streams/102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 9-1
 http://103.102.136.106:8080/cmcltv/channel9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Channel 9-2
@@ -113,6 +120,8 @@ http://103.205.133.19/hls/channel24.m3u8
 http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",DBC News-2
 http://103.205.133.19/hls/dbcnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Deepto TV
+http://otv.ftpbd.net/streams/103/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Deepto TV-1
 http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Deepto TV-2
@@ -196,8 +205,12 @@ http://master.beeiptv.com:8081/LAW/lawtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Times24
 http://cdn.priyoiptv.com:1932/priyoiptv/times24tv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney Channel-1
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Disney Channel-2
 http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",CN
+http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Nick Bangla-1
 http://103.115.159.38:8080/live/saiful/saiful/332.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="KIDS TV",Nick Bangla-2
@@ -244,6 +257,8 @@ https://video4.mayapur.tv/allTemples/BhaktiCenterNYC/BhaktiCenterNYC/chunklist.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",&Pictures HD
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andpicshd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony Max
+http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",BFLIX
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Hindi",Sony MaxHD
@@ -366,11 +381,15 @@ http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/etc/index.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",Star Movies HD
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",HBO-1
 https://ott.bingebd.com/live/ngrp:hbo_all/chunklist_b2670202.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="English",&Flix-2
 http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=https://z5ams.akamaized.net/andflix/index.m3u8
@@ -472,6 +491,10 @@ http://mhdtvworld.net/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/biharjharkh
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",The Q TV
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",National Gegraphic HD
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery
+http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Sony-BBC-Earth
 https://ott.bingebd.com/live/ngrp:sony_bbc_earth_all/chunklist_b6727973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Hindi
@@ -523,6 +546,14 @@ https://streamitv.multitvsolution.in/idvo/discoveryhd_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sports1
 http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony 10
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Sony 6
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Star Sports HD-1
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Star Sports HD-2
+http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Star Sports1
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Sports",Star Sports1 HD

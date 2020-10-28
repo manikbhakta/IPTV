@@ -35,6 +35,8 @@ https://ott.bingebd.com/live/ngrp:star_jalsha_hd_all/chunklist_b1228000.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha-1
 http://103.115.159.38:8080/live/saiful/saiful/281.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-1
+http://otv.ftpbd.net/streams/115/1048.ts
+http://otv.ftpbd.net/streams/115/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD-2
 https://ott.bingebd.com/live/ngrp:jalsha_movies_all/chunklist_b1228000.m3u8

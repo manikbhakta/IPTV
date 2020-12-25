@@ -5,6 +5,8 @@ https://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zonack TV
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Sun Bangla
+http://tv.bdtv.xyz:8080/token/sunbangla/chunks.m3u8?nimblesessionid=78040&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyMCAxMjowMDozMiBQTSZoYXNoX3ZhbHVlPVlOelJIaEpYMVJnVUdDd281L0Q2VUE9PSZ2YWxpZG1pbnV0ZXM9NQ==
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-1
 http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla-2

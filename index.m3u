@@ -67,6 +67,9 @@ http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",GaanBangla
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Sports",SonySixHD
+http://103.55.144.46:8081/SonySix/tracks-v1a1/playlist.m3u8
+
 
 
 

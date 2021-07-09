@@ -10,19 +10,23 @@ http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 http://10.16.100.205/hls/ch_i.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Channel24
+http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Ekattor TV
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",News24
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Mohona TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",ATN News
 http://10.16.100.205/hls/news_atn_london720.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Desh TV
 http://10.16.100.205/hls/des_tv_local480.m3u8
-#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",ATN TV
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",ATN Bangla
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8

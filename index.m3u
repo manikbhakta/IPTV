@@ -18,3 +18,51 @@ http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",ATN News
 http://10.16.100.205/hls/news_atn_london720.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Desh TV
+http://10.16.100.205/hls/des_tv_local480.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",ATN TV
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Gazi TV
+http://10.16.100.207:8082/sports/gaziTv_HD_local.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",DigiBangla TV
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Asian TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Bangla Vision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",My TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Ekushey TV
+http://10.16.100.205/hls/21etv.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Nagorik TV
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",And TV
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Sony TV
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Zee TV
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Wow Cinema
+http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",AndPicturesHD
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Colors TV
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",StarPlus
+http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",GaanBangla
+http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+
+
+
+

@@ -5,6 +5,8 @@ http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD
 http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD2
+http://tv.pmcon.net/hls/stream30.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema
 http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Sony Aat
@@ -13,6 +15,8 @@ http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD
 http://178.62.107.180/woh/index.m3u8?id=51164
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD2
+http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
 http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD
@@ -67,8 +71,16 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 http://tv.pmcon.net/hls/stream23.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",POGO
 http://tv.pmcon.net/hls/stream5.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",Sony Yay
+http://tv.pmcon.net/hls/stream32.m3u8
+
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",AXN
 http://tv.pmcon.net/hls/stream2.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",BBC
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",Aljazeera
+http://tv.pmcon.net/hls/stream35.m3u8
+
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",Star Movies
 http://tv.pmcon.net/hls/stream3.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",UTV Action
@@ -79,9 +91,16 @@ http://tv.pmcon.net/hls/stream3.m3u8
 http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",National Geographic Bangla
 http://tv.pmcon.net/hls/stream13.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",TravelXP Bangla
+http://tv.pmcon.net/hls/stream37.m3u8
+
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",And TV
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",AndPicturesHD
+http://tv.pmcon.net/hls/stream13.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Colors CineplexHD
+http://tv.pmcon.net/hls/stream29.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Zee Cinema HD
 http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Sony TV
@@ -96,6 +115,8 @@ http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",StarPlus
 http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",StarPlus HD
+http://tv.pmcon.net/hls/stream38.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",GaanBangla
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8

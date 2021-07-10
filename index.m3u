@@ -73,6 +73,8 @@ http://tv.pmcon.net/hls/stream23.m3u8
 http://tv.pmcon.net/hls/stream5.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",Sony Yay
 http://tv.pmcon.net/hls/stream32.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",Discovery Kids
+https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",AXN
 http://tv.pmcon.net/hls/stream2.m3u8
@@ -93,6 +95,33 @@ http://tv.pmcon.net/hls/stream9.m3u8
 http://tv.pmcon.net/hls/stream13.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",TravelXP Bangla
 http://tv.pmcon.net/hls/stream37.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",Discovery Turbo
+https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",TLC HD
+https://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
+
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Imayam TV
+https://idvd.multitvsolution.com/idvo/imayamtv_540p/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Kalainagar TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Jaya TV
+http://uk4.zecast.com:1935/star-live/jaya/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Polimar TV
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Vijay HD
+http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Rasi Tamil TV
+http://singamcloud.in:1935/rasinetwork/rasitamil/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",GTA Tamil
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Vasantam TV
+http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",TVi HD
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Athavant TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Tamil",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",And TV

@@ -1,10 +1,22 @@
 #EXTM3U
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Enter10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla HD
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema
+http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Sony Aat
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Star Jalsha HD
+http://178.62.107.180/woh/index.m3u8?id=51164
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
+http://tv.pmcon.net/hls/stream28.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD
+http://tv.pmcon.net/hls/stream28.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Channel-i
 http://10.16.100.205/hls/ch_i.m3u8

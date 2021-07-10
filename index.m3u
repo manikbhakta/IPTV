@@ -16,7 +16,9 @@ http://178.62.107.180/woh/index.m3u8?id=51164
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Colors Bangla HD
 http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Jalsha Movies HD
-http://tv.pmcon.net/hls/stream28.m3u8
+http://tv.pmcon.net/hls/stream27.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Indian Bangla",Enter10 Bangla
+http://tv.pmcon.net/hls/stream26.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Channel-i
 http://10.16.100.205/hls/ch_i.m3u8
@@ -61,8 +63,27 @@ http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Nagorik TV
 http://10.16.100.203:8082/bangla/nagorik.m3u8
 
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",NICK
+http://tv.pmcon.net/hls/stream23.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",POGO
+http://tv.pmcon.net/hls/stream5.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",AXN
+http://tv.pmcon.net/hls/stream2.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",Star Movies
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",UTV Action
+http://tv.pmcon.net/hls/stream7.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",Animal Planet
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",Discovery Bangla
+http://tv.pmcon.net/hls/stream9.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Wild",National Geographic Bangla
+http://tv.pmcon.net/hls/stream13.m3u8
+
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",And TV
 http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Zee Cinema HD
+http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Sony TV
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Hindi",Zee TV
@@ -81,6 +102,8 @@ http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Sports",SonySixHD
 http://103.55.144.46:8081/SonySix/tracks-v1a1/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Sports",SonySixHD
+http://tv.pmcon.net/hls/stream9.m3u8
 
 
 

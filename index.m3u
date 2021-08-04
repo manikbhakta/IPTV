@@ -34,10 +34,14 @@ http://10.16.100.205/hls/ch_i.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",KTV
+http://server1.jadubd.com/ktvbangla/ktvbangla/chunklist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Channel24
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Cumilla24 TV
 http://iptvbd.jagobd.com:1931/boishakhi/cumilla24.stream/playlist.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Channel24
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",Nexus TV
 http://iptvbd.jagobd.com:1931/boishakhi/nexustv.stream/playlist.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Bangla",DBC News
@@ -87,6 +91,8 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",NICK
 http://tv.pmcon.net/hls/stream23.m3u8
+#EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",WoW Kids
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",POGO
 http://tv.pmcon.net/hls/stream5.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Cartoon",Sony Yay
